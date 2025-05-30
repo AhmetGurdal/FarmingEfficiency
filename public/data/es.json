@@ -1,0 +1,1544 @@
+{
+  "tomato": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28080000/domates-kg-c7462d.jpg",
+    "name": "Tomate",
+    "pHRange": [5.5, 7.0],
+    "nitrogen": 200,
+    "phosphorus": 60,
+    "potassium": 300,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Primavera (después de la última helada)",
+    "maturityDays": 70,
+    "temperature": [20, 27],
+    "fertilizer": "NPK 10-10-10 cada 2 semanas",
+    "diseases": ["Tizón", "Marchitez por Fusarium"],
+    "medicines": ["Fungicida de cobre", "Aceite de neem"]
+  },
+  "lettuce": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28250009/marul-adet-8ff30a.jpg",
+    "name": "Lechuga",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 45,
+    "potassium": 150,
+    "sunlight": "Pleno Sol",
+    "water": 30,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 50,
+    "temperature": [10, 20],
+    "fertilizer": "Fertilizante orgánico equilibrado o NPK 5-5-5",
+    "diseases": ["Mildiú velloso", "Virus del mosaico de la lechuga"],
+    "medicines": ["Fungicida de azufre", "Jabón insecticida"]
+  },
+  "carrot": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28129017/havuc-beypazari-kg-ea03f4.jpg",
+    "name": "Zanahoria",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 100,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera o finales de verano",
+    "maturityDays": 70,
+    "temperature": [15, 21],
+    "fertilizer": "Bajo en nitrógeno, alto en potasio (ej. NPK 5-10-10)",
+    "diseases": ["Tizón foliar por Alternaria"],
+    "medicines": ["Pulverización de clorotalonil"]
+  },
+  "cucumber": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28130000/hiyar-kg-4aa292.jpg",
+    "name": "Pepino",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera (cuando el suelo esté por encima de 18°C)",
+    "maturityDays": 50,
+    "temperature": [18, 30],
+    "fertilizer": "NPK 10-10-10 equilibrado antes de la floración, cambiar a 5-10-10 durante la fructificación",
+    "diseases": ["Oídio", "Mildiú velloso", "Virus del mosaico del pepino"],
+    "medicines": [
+      "Fungicida a base de azufre para el mildiú",
+      "Aceite de neem para el control de pulgones",
+      "Jabón insecticida para plagas"
+    ]
+  },
+  "spinach": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28140099/ispanak-kg-f2b464.jpg",
+    "name": "Espinaca",
+    "pHRange": [6.5, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Sombra parcial a pleno sol",
+    "water": 30,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 40,
+    "temperature": [10, 21],
+    "fertilizer": "Fertilizante rico en nitrógeno (ej. 12-6-6) al plantar y a mitad de temporada",
+    "diseases": ["Mildiú velloso", "Marchitez por Fusarium", "Mancha foliar"],
+    "medicines": [
+      "Fungicida a base de cobre",
+      "Rotación de cultivos para enfermedades transmitidas por el suelo",
+      "Aceite de neem para el control general de plagas"
+    ]
+  },
+  "potato": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28293387/patates-taze-dokme-kg-6a65f9.jpg",
+    "name": "Patata",
+    "pHRange": [5.0, 6.5],
+    "nitrogen": 180,
+    "phosphorus": 55,
+    "potassium": 300,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera (2-4 semanas antes de la última helada)",
+    "maturityDays": 90,
+    "temperature": [15, 21],
+    "fertilizer": "Bajo en nitrógeno, alto en potasio (ej. NPK 5-10-10); aplicar al aporcar",
+    "diseases": ["Tizón tardío", "Tizón temprano", "Sarna"],
+    "medicines": [
+      "Mancozeb o fungicida de cobre para el tizón",
+      "Evitar el follaje húmedo; usar riego por goteo",
+      "Plantar patatas de siembra certificadas libres de enfermedades"
+    ]
+  },
+  "onion": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28390007/28390007-25131e.jpg",
+    "name": "Cebolla",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 60,
+    "potassium": 200,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Fría a moderada",
+    "plantingTime": "Principios de primavera o finales de otoño",
+    "maturityDays": 90,
+    "temperature": [13, 24],
+    "fertilizer": "Rico en nitrógeno al principio (ej. 10-10-10), reducir N durante la formación del bulbo; aplicar potasio y fósforo de forma constante",
+    "diseases": ["Mildiú velloso", "Mancha púrpura", "Pudrición del cuello"],
+    "medicines": [
+      "Fungicidas como clorotalonil para enfermedades fúngicas",
+      "Rotación de cultivos y espaciado adecuado",
+      "Evitar el riego por aspersión para reducir enfermedades"
+    ]
+  },
+  "garlic": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28352013/sarimsak-orgu-kg-326e33.jpg",
+    "name": "Ajo",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 130,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Fría",
+    "plantingTime": "Otoño (antes de la primera helada)",
+    "maturityDays": 240,
+    "temperature": [13, 24],
+    "fertilizer": "Nitrógeno moderado (ej. 10-10-10) aplicado temprano; evitar el exceso de nitrógeno a finales de temporada",
+    "diseases": ["Pudrición blanca", "Roya", "Pudrición del cuello"],
+    "medicines": [
+      "Fungicidas para la pudrición blanca",
+      "Rotación de cultivos",
+      "Usar dientes de siembra libres de enfermedades"
+    ]
+  },
+  "pea": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28041000/bezelye-araka-kg-4eee43.jpg",
+    "name": "Guisante",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 80,
+    "phosphorus": 45,
+    "potassium": 150,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera",
+    "maturityDays": 60,
+    "temperature": [10, 24],
+    "fertilizer": "Fertilizante bajo en nitrógeno; los guisantes fijan su propio nitrógeno",
+    "diseases": ["Oídio", "Pudrición de la raíz", "Marchitez por Fusarium"],
+    "medicines": [
+      "Fungicidas para el mildiú",
+      "Buen drenaje",
+      "Rotación de cultivos"
+    ]
+  },
+  "bean": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28113001/fasulye-cali-paket-kg-34885d.jpg",
+    "name": "Haba",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 80,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 60,
+    "temperature": [18, 30],
+    "fertilizer": "Fertilizante bajo en nitrógeno; inocular semillas con bacterias Rhizobium para la fijación de nitrógeno",
+    "diseases": ["Antracnosis", "Roya", "Pudrición de la raíz"],
+    "medicines": [
+      "Fungicidas para la antracnosis",
+      "Tratamiento de semillas",
+      "Rotación de cultivos"
+    ]
+  },
+  "corn": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28270004/misir-adet-d61636.jpg",
+    "name": "Maíz",
+    "pHRange": [5.8, 7.0],
+    "nitrogen": 220,
+    "phosphorus": 60,
+    "potassium": 300,
+    "sunlight": "Pleno Sol",
+    "water": 30,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera (cuando la temperatura del suelo > 10°C)",
+    "maturityDays": 90,
+    "temperature": [18, 27],
+    "fertilizer": "Fertilizante rico en nitrógeno (ej. 20-10-10) aplicado en dosis divididas",
+    "diseases": [
+      "Carbón del maíz",
+      "Tizón foliar del maíz del norte",
+      "Mancha gris de la hoja"
+    ],
+    "medicines": [
+      "Fungicidas como clorotalonil",
+      "Rotación de cultivos",
+      "Híbridos resistentes"
+    ]
+  },
+  "wheat": {
+    "image": "https://images.stockcake.com/public/c/5/1/c51613c5-3a6c-474e-a849-3ed44ae59d14_large/harvest-gold-detail-stockcake.jpg",
+    "name": "Trigo",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 180,
+    "phosphorus": 55,
+    "potassium": 250,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría a moderada",
+    "plantingTime": "Otoño o principios de primavera",
+    "maturityDays": 120,
+    "temperature": [10, 24],
+    "fertilizer": "Aplicaciones divididas de nitrógeno (ej. NPK 15-15-15), evitar el exceso de nitrógeno a finales de temporada",
+    "diseases": ["Roya", "Oídio", "Tizón de la espiga por Fusarium"],
+    "medicines": [
+      "Fungicidas como propiconazol",
+      "Rotación de cultivos",
+      "Semilla certificada libre de enfermedades"
+    ]
+  },
+  "rice": {
+    "image": "https://images.stockcake.com/public/c/8/5/c85b66a9-cbeb-44aa-94cb-6a6c306bc591_large/steaming-rice-bowl-stockcake.jpg",
+    "name": "Arroz",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 200,
+    "phosphorus": 60,
+    "potassium": 280,
+    "sunlight": "Pleno Sol",
+    "water": 100,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 150,
+    "temperature": [20, 30],
+    "fertilizer": "Aplicaciones divididas de NPK (ej. 16-16-16), con potasio adicional durante el ahijamiento",
+    "diseases": [
+      "Piricularia del arroz",
+      "Tizón de la vaina",
+      "Tizón bacteriano de la hoja"
+    ],
+    "medicines": [
+      "Fungicidas como triciclazol",
+      "Manejo del agua para reducir enfermedades",
+      "Uso de variedades resistentes"
+    ]
+  },
+  "barley": {
+    "image": "https://images.stockcake.com/public/6/6/7/6678e6d2-531a-44f9-a19f-4cd99a175f92_large/barley-in-scoop-stockcake.jpg",
+    "name": "Cebada",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 90,
+    "temperature": [10, 24],
+    "fertilizer": "Nitrógeno moderado (ej. 12-12-12), aplicaciones divididas",
+    "diseases": ["Oídio", "Roya de la hoja", "Mancha en red"],
+    "medicines": [
+      "Fungicidas como propiconazol",
+      "Rotación de cultivos",
+      "Semilla certificada"
+    ]
+  },
+  "oats": {
+    "image": "https://images.stockcake.com/public/9/4/8/94817f59-336e-4ea4-b625-4310b10fe841_large/ancient-grain-ritual-stockcake.jpg",
+    "name": "Avena",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 140,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera",
+    "maturityDays": 90,
+    "temperature": [10, 21],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado (ej. 10-10-10)",
+    "diseases": ["Roya de la corona", "Roya del tallo", "Oídio"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Rotación de cultivos",
+      "Variedades resistentes"
+    ]
+  },
+  "soybean": {
+    "image": "https://images.stockcake.com/public/1/2/6/12605da1-6df3-4015-835a-0273e27535aa_large/soybean-root-nodules-stockcake.jpg",
+    "name": "Soja",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 60,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 100,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante bajo en nitrógeno; inocular semillas con bacterias Rhizobium",
+    "diseases": [
+      "Roya de la soja",
+      "Pudrición de la raíz por Phytophthora",
+      "Síndrome de muerte súbita"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Tratamiento de semillas",
+      "Rotación de cultivos"
+    ]
+  },
+  "alfalfa": {
+    "image": "https://images.stockcake.com/public/0/e/0/0e0cef72-1451-40b3-866f-edb5fd334c8d_large/fresh-sprouts-bowl-stockcake.jpg",
+    "name": "Alfalfa",
+    "pHRange": [6.5, 7.5],
+    "nitrogen": 0,
+    "phosphorus": 60,
+    "potassium": 250,
+    "sunlight": "Pleno Sol",
+    "water": 30,
+    "season": "Cálida",
+    "plantingTime": "Principios de primavera o finales de verano",
+    "maturityDays": 90,
+    "temperature": [15, 30],
+    "fertilizer": "Aplicación de fósforo y potasio; nitrógeno generalmente no necesario debido a la fijación de nitrógeno",
+    "diseases": [
+      "Pudrición de la raíz por Phytophthora",
+      "Marchitez por Verticillium",
+      "Antracnosis"
+    ],
+    "medicines": [
+      "Fungicidas como metalaxil",
+      "Rotación de cultivos",
+      "Usar semillas libres de enfermedades"
+    ]
+  },
+  "cabbage": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28210000/lahana-blanca-kg-ort-1750-g-9f6e4c-1650x1650.jpg",
+    "name": "Col",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 85,
+    "temperature": [15, 21],
+    "fertilizer": "Fertilizante rico en nitrógeno al principio, NPK equilibrado durante la formación de la cabeza",
+    "diseases": ["Pudrición negra", "Hernia de la col", "Mildiú velloso"],
+    "medicines": [
+      "Fungicidas a base de cobre",
+      "Rotación de cultivos",
+      "Espaciado y saneamiento adecuados"
+    ]
+  },
+  "broccoli": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28180000/brokoli-kg-3731a0.jpg",
+    "name": "Brócoli",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 160,
+    "phosphorus": 60,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 80,
+    "temperature": [15, 21],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno ligeramente más alto (ej. 15-10-10)",
+    "diseases": ["Mildiú velloso", "Pudrición negra", "Hernia de la col"],
+    "medicines": [
+      "Fungicidas de cobre",
+      "Rotación de cultivos",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "cauliflower": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28170000/karnabahar-kg-def0a7.jpg",
+    "name": "Coliflor",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 180,
+    "phosphorus": 55,
+    "potassium": 230,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 75,
+    "temperature": [15, 21],
+    "fertilizer": "Rico en nitrógeno al principio, NPK equilibrado durante la formación de la cabeza",
+    "diseases": ["Pudrición negra", "Mildiú velloso", "Hernia de la col"],
+    "medicines": [
+      "Fungicidas a base de cobre",
+      "Rotación de cultivos",
+      "Saneamiento adecuado"
+    ]
+  },
+  "brussels_sprouts": {
+    "image": "https://images.stockcake.com/public/6/8/6/6869a6da-83c9-4157-a96f-a815bde36382_large/dewy-brussels-sprouts-stockcake.jpg",
+    "name": "Coles de Bruselas",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 170,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera o finales de verano",
+    "maturityDays": 90,
+    "temperature": [15, 21],
+    "fertilizer": "Fertilizante rico en nitrógeno al principio, NPK equilibrado más tarde",
+    "diseases": ["Mildiú velloso", "Pudrición negra", "Hernia de la col"],
+    "medicines": [
+      "Fungicidas de cobre",
+      "Rotación de cultivos",
+      "Buenas prácticas de saneamiento"
+    ]
+  },
+  "kale": {
+    "image": "https://images.stockcake.com/public/8/e/1/8e19d06c-6bfa-4c1f-ba2f-5e3272633289_large/purple-kale-rows-stockcake.jpg",
+    "name": "Col rizada",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 60,
+    "temperature": [15, 21],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Pudrición negra", "Mildiú velloso", "Hernia de la col"],
+    "medicines": [
+      "Fungicidas de cobre",
+      "Rotación de cultivos",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "chard": {
+    "image": "https://images.stockcake.com/public/6/5/7/657e4625-61b2-4933-8738-4d2b8c152d5b_large/fresh-red-chard-stockcake.jpg",
+    "name": "Acelga",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 25,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 55,
+    "temperature": [15, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado (ej. 10-10-10)",
+    "diseases": [
+      "Mancha foliar",
+      "Mildiú velloso",
+      "Mancha foliar por Cercospora"
+    ],
+    "medicines": [
+      "Fungicidas de cobre",
+      "Rotación de cultivos",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "mustard_greens": {
+    "image": "https://images.stockcake.com/public/7/1/b/71b46574-ee1c-4c2f-a2b5-d2d857323eb1_large/golden-polygon-blooms-stockcake.jpg",
+    "name": "Mostaza verde",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 40,
+    "temperature": [10, 21],
+    "fertilizer": "Fertilizante con nitrógeno moderado",
+    "diseases": ["Mildiú velloso", "Roya blanca", "Pudrición negra"],
+    "medicines": [
+      "Fungicidas a base de cobre",
+      "Rotación de cultivos",
+      "Saneamiento adecuado"
+    ]
+  },
+  "arugula": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28340009/roka-demet-efff5f.jpg",
+    "name": "Rúcula",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 30,
+    "temperature": [10, 21],
+    "fertilizer": "Fertilizante ligero equilibrado",
+    "diseases": ["Mildiú velloso", "Mancha foliar", "Oídio"],
+    "medicines": [
+      "Fungicidas de cobre",
+      "Rotación de cultivos",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "radish": {
+    "image": "https://images.stockcake.com/public/3/a/8/3a83024d-b2f7-477f-8e8c-a88c47bbeec1_large/radish-sprouting-life-stockcake.jpg",
+    "name": "Rábano",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 30,
+    "temperature": [10, 21],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Hernia de la col", "Mildiú velloso", "Pudrición negra"],
+    "medicines": [
+      "Fungicidas de cobre",
+      "Rotación de cultivos",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "beetroot": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28380099/pancar-kg-ff8ae5.jpg",
+    "name": "Remolacha",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 45,
+    "potassium": 180,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Fría",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 55,
+    "temperature": [15, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Mancha foliar por Cercospora", "Mildiú velloso", "Oídio"],
+    "medicines": [
+      "Fungicidas de cobre",
+      "Rotación de cultivos",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "sweet_potato": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28293023/28293023-bb5ecc.jpg",
+    "name": "Batata",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera después de que el suelo se caliente",
+    "maturityDays": 120,
+    "temperature": [21, 29],
+    "fertilizer": "Bajo en nitrógeno, fertilizante con mayor potasio (ej. 5-10-20)",
+    "diseases": [
+      "Gorgojo de la batata",
+      "Marchitez por Fusarium",
+      "Pudrición negra"
+    ],
+    "medicines": [
+      "Insecticidas para gorgojos",
+      "Fungicidas para la pudrición",
+      "Usar esquejes libres de enfermedades"
+    ]
+  },
+  "pumpkin": {
+    "image": "https://images.stockcake.com/public/1/8/2/182e357b-ad46-4e9d-bf7a-60b7082101d7_large/vibrant-3d-pumpkin-stockcake.jpg",
+    "name": "Calabaza",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera después del riesgo de heladas",
+    "maturityDays": 110,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado al principio y mayor potasio más tarde",
+    "diseases": ["Oídio", "Mildiú velloso", "Antracnosis"],
+    "medicines": [
+      "Fungicidas (ej. a base de azufre o cobre)",
+      "Rotación de cultivos",
+      "Espaciado adecuado"
+    ]
+  },
+  "zucchini": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28160000/kabak-sakiz-kg-31919c.jpg",
+    "name": "Calabacín",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 50,
+    "temperature": [18, 27],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado (ej. 10-10-10)",
+    "diseases": ["Oídio", "Marchitez bacteriana", "Antracnosis"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Rotación de cultivos",
+      "Buen saneamiento"
+    ]
+  },
+  "eggplant": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28303000/patlican-kemer-kg-2ac52c.jpg",
+    "name": "Berenjena",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 160,
+    "phosphorus": 55,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera después de las heladas",
+    "maturityDays": 90,
+    "temperature": [21, 29],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Marchitez por Verticillium", "Tizón por Phomopsis", "Oídio"],
+    "medicines": [
+      "Fungicidas",
+      "Rotación de cultivos",
+      "Usar variedades resistentes"
+    ]
+  },
+  "bell_pepper": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28052000/biber-dolmalik-kg-0322a4.jpg",
+    "name": "Pimiento",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 160,
+    "phosphorus": 55,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera después de las heladas",
+    "maturityDays": 75,
+    "temperature": [20, 27],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Mancha bacteriana", "Antracnosis", "Oídio"],
+    "medicines": [
+      "Fungicidas a base de cobre",
+      "Rotación de cultivos",
+      "Usar variedades resistentes"
+    ]
+  },
+  "chili_pepper": {
+    "image": "https://images.stockcake.com/public/4/6/8/46824024-73d3-4cee-9d7f-9c69b70a078a_large/vibrant-peppers-glow-stockcake.jpg",
+    "name": "Chile",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 70,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Antracnosis", "Oídio", "Mancha bacteriana"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Rotación de cultivos",
+      "Variedades resistentes"
+    ]
+  },
+  "okra": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hong_Kong_Okra_Aug_25_2012.JPG/250px-Hong_Kong_Okra_Aug_25_2012.JPG",
+    "name": "Okra",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 60,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Oídio", "Marchitez por Fusarium", "Mancha foliar"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Rotación de cultivos",
+      "Buen saneamiento"
+    ]
+  },
+  "sweet_corn": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/VegCorn.jpg/250px-VegCorn.jpg",
+    "name": "Maíz dulce",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 30,
+    "season": "Cálida",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 70,
+    "temperature": [18, 27],
+    "fertilizer": "Fertilizante rico en nitrógeno dividido en etapas",
+    "diseases": [
+      "Tizón foliar del maíz del norte",
+      "Mancha gris de la hoja",
+      "Carbón del maíz"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Rotación de cultivos",
+      "Híbridos resistentes"
+    ]
+  },
+  "sunflower": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/250px-Sunflower_sky_backdrop.jpg",
+    "name": "Girasol",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 200,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Cálida",
+    "plantingTime": "Primavera después de la última helada",
+    "maturityDays": 90,
+    "temperature": [18, 28],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Mildiú velloso", "Roya", "Oídio"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Rotación de cultivos",
+      "Variedades resistentes"
+    ]
+  },
+  "marigold": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/French_marigold.jpg/250px-French_marigold.jpg",
+    "name": "Caléndula",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 100,
+    "phosphorus": 40,
+    "potassium": 120,
+    "sunlight": "Pleno Sol",
+    "water": 15,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 45,
+    "temperature": [18, 30],
+    "fertilizer": "Fertilizante ligero equilibrado",
+    "diseases": ["Oídio", "Pudrición de la raíz", "Tizón por Botrytis"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "petunia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Petunia_exserta_by_Scott_Zona_-_004_%281%29.jpg/250px-Petunia_exserta_by_Scott_Zona_-_004_%281%29.jpg",
+    "name": "Petunia",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 100,
+    "phosphorus": 40,
+    "potassium": 120,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 15,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 60,
+    "temperature": [18, 25],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Oídio", "Tizón por Botrytis", "Pudrición de la raíz"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Evitar el exceso de riego"
+    ]
+  },
+  "geranium": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geranium_February_2008-1.jpg/250px-Geranium_February_2008-1.jpg",
+    "name": "Geranio",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 90,
+    "phosphorus": 35,
+    "potassium": 110,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 15,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 70,
+    "temperature": [18, 25],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno ligero",
+    "diseases": ["Tizón por Botrytis", "Mancha foliar bacteriana", "Roya"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Espaciado adecuado",
+      "Buena circulación de aire"
+    ]
+  },
+  "parsley": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28260009/maydanoz-adet-659b84.jpg",
+    "name": "Perejil",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Fría a moderada",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 70,
+    "temperature": [15, 21],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Mancha foliar", "Pudrición de la raíz", "Oídio"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "banana_plant": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27270000/muz-yerli-kg-9d3d01.jpg",
+    "name": "Plátano",
+    "pHRange": [5.5, 7.0],
+    "nitrogen": 200,
+    "phosphorus": 60,
+    "potassium": 300,
+    "sunlight": "Pleno Sol",
+    "water": 40,
+    "season": "Tropical/Cálida",
+    "plantingTime": "Primavera o inicio de la temporada de lluvias",
+    "maturityDays": 365,
+    "temperature": [26, 30],
+    "fertilizer": "Fertilizante rico en potasio y nitrógeno (ej. 10-10-30)",
+    "diseases": [
+      "Enfermedad de Panamá",
+      "Sigatoka negra",
+      "Virus del cogollo racimoso del plátano"
+    ],
+    "medicines": [
+      "Fungicidas y bactericidas según sea necesario",
+      "Usar cultivares resistentes",
+      "Saneamiento y rotación de cultivos"
+    ]
+  },
+  "aloe_vera": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aloe_Vera.jpg/250px-Aloe_Vera.jpg",
+    "name": "Aloe Vera",
+    "pHRange": [7.0, 8.5],
+    "nitrogen": 50,
+    "phosphorus": 30,
+    "potassium": 70,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 5,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 365,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante bajo en nitrógeno, equilibrado con fósforo y potasio",
+    "diseases": ["Pudrición de la raíz", "Manchas foliares", "Roya del aloe"],
+    "medicines": [
+      "Suelo bien drenado para prevenir la pudrición de la raíz",
+      "Fungicidas de cobre para las manchas foliares",
+      "Evitar el exceso de riego"
+    ]
+  },
+  "basil": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28119903/feslegen-demet-50fba7.jpg",
+    "name": "Albahaca",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Pleno Sol",
+    "water": 15,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 60,
+    "temperature": [18, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Mildiú velloso", "Marchitez por Fusarium", "Mancha foliar"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buena circulación de aire",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "mint": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28280009/28280009-5c4e11.jpg",
+    "name": "Menta",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 130,
+    "phosphorus": 40,
+    "potassium": 160,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Fría a moderada",
+    "plantingTime": "Primavera",
+    "maturityDays": 70,
+    "temperature": [15, 25],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Roya", "Oídio", "Marchitez por Verticillium"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Evitar el hacinamiento"
+    ]
+  },
+  "rosemary": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rosemary_in_bloom.JPG/250px-Rosemary_in_bloom.JPG",
+    "name": "Romero",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 80,
+    "phosphorus": 35,
+    "potassium": 100,
+    "sunlight": "Pleno Sol",
+    "water": 10,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 180,
+    "temperature": [18, 27],
+    "fertilizer": "Fertilizante bajo en nitrógeno, equilibrado con fósforo y potasio",
+    "diseases": ["Pudrición de la raíz", "Oídio", "Mancha foliar"],
+    "medicines": [
+      "Asegurar un suelo bien drenado",
+      "Fungicidas a base de cobre",
+      "Evitar el exceso de riego"
+    ]
+  },
+  "thyme": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thyme-Bundle.jpg/250px-Thyme-Bundle.jpg",
+    "name": "Tomillo",
+    "pHRange": [6.0, 8.0],
+    "nitrogen": 70,
+    "phosphorus": 30,
+    "potassium": 90,
+    "sunlight": "Pleno Sol",
+    "water": 8,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 150,
+    "temperature": [18, 27],
+    "fertilizer": "Fertilizante bajo en nitrógeno",
+    "diseases": ["Pudrición de la raíz", "Oídio", "Tizón por Botrytis"],
+    "medicines": [
+      "Suelo bien drenado",
+      "Fungicidas según sea necesario",
+      "Evitar el exceso de humedad"
+    ]
+  },
+  "lavender": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/250px-Single_lavender_flower02.jpg",
+    "name": "Lavanda",
+    "pHRange": [6.5, 7.5],
+    "nitrogen": 60,
+    "phosphorus": 35,
+    "potassium": 110,
+    "sunlight": "Pleno Sol",
+    "water": 8,
+    "season": "Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 180,
+    "temperature": [18, 27],
+    "fertilizer": "Fertilizante bajo en nitrógeno",
+    "diseases": [
+      "Pudrición de la raíz",
+      "Enfermedad del shab",
+      "Tizón por Botrytis"
+    ],
+    "medicines": [
+      "Asegurar un buen drenaje",
+      "Fungicidas si es necesario",
+      "Evitar el exceso de riego"
+    ]
+  },
+  "cilantro": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coriandrum_sativum_003.JPG/250px-Coriandrum_sativum_003.JPG",
+    "name": "Cilantro",
+    "pHRange": [6.2, 7.0],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 15,
+    "season": "Fría a moderada",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 45,
+    "temperature": [15, 21],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Oídio", "Mancha foliar", "Damping off"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buena circulación de aire",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "ginger": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28600001/zencefil-kg-fd82e8.jpg",
+    "name": "Jengibre",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 200,
+    "sunlight": "Sombra parcial",
+    "water": 30,
+    "season": "Cálida, húmeda",
+    "plantingTime": "Finales de primavera",
+    "maturityDays": 240,
+    "temperature": [22, 28],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno y potasio moderados",
+    "diseases": [
+      "Pudrición del rizoma",
+      "Mancha foliar",
+      "Marchitez bacteriana"
+    ],
+    "medicines": [
+      "Fungicidas para la pudrición",
+      "Buen drenaje",
+      "Usar rizomas libres de enfermedades"
+    ]
+  },
+  "turmeric": {
+    "image": "https://www.health.com/thmb/DnvvgyM3YhTQDPDiYGb47CTeX9M=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-CurcuminVsTurmeric-61d015f5c4154a91a44e4ef91293d91f.jpg",
+    "name": "Cúrcuma",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Sombra parcial",
+    "water": 30,
+    "season": "Cálida, húmeda",
+    "plantingTime": "Primavera",
+    "maturityDays": 270,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno y potasio moderados",
+    "diseases": ["Pudrición del rizoma", "Mancha foliar", "Mancha foliar"],
+    "medicines": [
+      "Fungicidas",
+      "Buen drenaje",
+      "Rizomas libres de enfermedades"
+    ]
+  },
+  "avocado": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28010004/28010004-10a053.jpg",
+    "name": "Aguacate",
+    "pHRange": [6.0, 6.5],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Cálida, sin heladas",
+    "plantingTime": "Primavera",
+    "maturityDays": 1095,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante equilibrado con mayor potasio",
+    "diseases": [
+      "Pudrición de la raíz (Phytophthora)",
+      "Antracnosis",
+      "Viroide de la mancha solar"
+    ],
+    "medicines": [
+      "Fungicidas para la pudrición de la raíz",
+      "Buen drenaje",
+      "Usar árboles certificados libres de enfermedades"
+    ]
+  },
+  "apple_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27133000/elma-granny-smith-kg-0e9183.jpg",
+    "name": "Manzano",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Templada",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 1460,
+    "temperature": [18, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Sarna del manzano", "Fuego bacteriano", "Oídio"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Poda para la circulación del aire",
+      "Usar portainjertos resistentes"
+    ]
+  },
+  "mango_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27580003/mango-adet-604864.jpg",
+    "name": "Mango",
+    "pHRange": [5.5, 7.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Pleno Sol",
+    "water": 30,
+    "season": "Tropical/Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 1095,
+    "temperature": [24, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado y alto potasio",
+    "diseases": ["Antracnosis", "Oídio", "Mancha negra bacteriana"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Poda adecuada",
+      "Usar cultivares resistentes"
+    ]
+  },
+  "orange_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27304007/portakal-kg-72075c.jpg",
+    "name": "Naranjo",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 230,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Subtropical/Cálida",
+    "plantingTime": "Primavera",
+    "maturityDays": 1460,
+    "temperature": [18, 28],
+    "fertilizer": "Fertilizante equilibrado con potasio ligeramente más alto",
+    "diseases": [
+      "Cáncer de los cítricos",
+      "Mancha grasienta",
+      "Pudrición de la raíz por Phytophthora"
+    ],
+    "medicines": [
+      "Fungicidas a base de cobre",
+      "Buen drenaje",
+      "Usar plantas certificadas libres de enfermedades"
+    ]
+  },
+  "coconut_palm": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/JfBohol7038naturefvf_39.JPG/250px-JfBohol7038naturefvf_39.JPG",
+    "name": "Palmera de Coco",
+    "pHRange": [5.0, 8.0],
+    "nitrogen": 150,
+    "phosphorus": 40,
+    "potassium": 300,
+    "sunlight": "Pleno Sol",
+    "water": 35,
+    "season": "Tropical",
+    "plantingTime": "Primavera",
+    "maturityDays": 1825,
+    "temperature": [27, 32],
+    "fertilizer": "Fertilizante rico en potasio y nitrógeno equilibrado",
+    "diseases": [
+      "Amarillamiento letal",
+      "Pudrición del cogollo",
+      "Marchitez de la raíz"
+    ],
+    "medicines": [
+      "Fungicidas y bactericidas según sea necesario",
+      "Buen drenaje",
+      "Usar plántulas libres de enfermedades"
+    ]
+  },
+  "pineapple": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg/250px-%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+    "name": "Piña",
+    "pHRange": [4.5, 6.5],
+    "nitrogen": 100,
+    "phosphorus": 30,
+    "potassium": 150,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Cálida, tropical",
+    "plantingTime": "Primavera",
+    "maturityDays": 450,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno y potasio moderados",
+    "diseases": [
+      "Pudrición del corazón",
+      "Pudrición de la raíz por Phytophthora",
+      "Marchitez de la cochinilla"
+    ],
+    "medicines": [
+      "Fungicidas para la pudrición de la raíz",
+      "Drenaje adecuado",
+      "Medidas de control de plagas"
+    ]
+  },
+  "tea_plant": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Longjing_tea_steeping_in_gaiwan.jpg/250px-Longjing_tea_steeping_in_gaiwan.jpg",
+    "name": "Planta de té",
+    "pHRange": [4.5, 5.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Sombra parcial",
+    "water": 25,
+    "season": "Subtropical a tropical",
+    "plantingTime": "Primavera",
+    "maturityDays": 730,
+    "temperature": [18, 30],
+    "fertilizer": "Fertilizante rico en nitrógeno",
+    "diseases": [
+      "Tizón de la ampolla",
+      "Pudrición de la raíz",
+      "Mancha foliar"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Poda adecuada"
+    ]
+  },
+  "coffee_plant": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/250px-Roasted_coffee_beans.jpg",
+    "name": "Cafeto",
+    "pHRange": [6.0, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 200,
+    "sunlight": "Sombra parcial",
+    "water": 25,
+    "season": "Tropical",
+    "plantingTime": "Primavera",
+    "maturityDays": 1095,
+    "temperature": [18, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": [
+      "Roya del cafeto",
+      "Enfermedad de la cereza del café",
+      "Pudrición de la raíz"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Usar variedades resistentes"
+    ]
+  },
+  "maple_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Acer_pseudoplatanus_002.jpg/250px-Acer_pseudoplatanus_002.jpg",
+    "name": "Arce",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Templada",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 1825,
+    "temperature": [10, 25],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Marchitez por Verticillium", "Antracnosis", "Oídio"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Poda adecuada",
+      "Buen drenaje"
+    ]
+  },
+  "oak_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Quercus_robur.jpg/250px-Quercus_robur.jpg",
+    "name": "Roble",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 40,
+    "potassium": 190,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 25,
+    "season": "Templada",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 3650,
+    "temperature": [10, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Marchitez del roble", "Oídio", "Antracnosis"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Saneamiento adecuado",
+      "Evitar heridas en el tronco"
+    ]
+  },
+  "willow_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Salix_alba_Morton.jpg/250px-Salix_alba_Morton.jpg",
+    "name": "Sauce",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 30,
+    "season": "Templada",
+    "plantingTime": "Principios de primavera",
+    "maturityDays": 1460,
+    "temperature": [10, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Cáncer", "Roya de la hoja", "Oídio"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Evitar el hacinamiento"
+    ]
+  },
+  "bamboo": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bamboo_forest.jpg/250px-Bamboo_forest.jpg",
+    "name": "Bambú",
+    "pHRange": [6.0, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 25,
+    "season": "Cálida a templada",
+    "plantingTime": "Primavera",
+    "maturityDays": 365,
+    "temperature": [18, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": [
+      "Hongo de la mancha negra",
+      "Marchitez por Fusarium",
+      "Roya de la hoja"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Poda regular"
+    ]
+  },
+  "rubber_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Koh_Chang%2C_Thailand%2C_Rubber_tree.jpg/250px-Koh_Chang%2C_Thailand%2C_Rubber_tree.jpg",
+    "name": "Árbol de Caucho",
+    "pHRange": [4.5, 6.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Sombra parcial",
+    "water": 30,
+    "season": "Tropical",
+    "plantingTime": "Primavera",
+    "maturityDays": 1825,
+    "temperature": [22, 32],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno y potasio moderados",
+    "diseases": ["Oídio", "Tizón de la hoja", "Pudrición de la raíz"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Evitar el encharcamiento"
+    ]
+  },
+  "blueberry": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27502017/27502017-abf1b0.jpg",
+    "name": "Arándano",
+    "pHRange": [4.0, 5.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 160,
+    "sunlight": "Pleno Sol a sombra parcial",
+    "water": 20,
+    "season": "Templada",
+    "plantingTime": "Primavera u otoño",
+    "maturityDays": 730,
+    "temperature": [15, 24],
+    "fertilizer": "Fertilizante para suelo ácido con nitrógeno moderado",
+    "diseases": [
+      "Baya momificada",
+      "Tizón por Botrytis",
+      "Pudrición de la raíz"
+    ],
+    "medicines": ["Fungicidas según sea necesario", "Buen drenaje", "Acolchado"]
+  },
+  "strawberry": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27081000/27081000-7e292e.jpg",
+    "name": "Fresa",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 160,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Templada",
+    "plantingTime": "Principios de primavera",
+    "maturityDays": 120,
+    "temperature": [15, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Moho gris", "Oídio", "Marchitez por Verticillium"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buena circulación de aire",
+      "Evitar el riego por aspersión"
+    ]
+  },
+  "raspberry": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27010006/27010006-7936d8.jpg",
+    "name": "Frambuesa",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 130,
+    "phosphorus": 45,
+    "potassium": 170,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Templada",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 150,
+    "temperature": [16, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": [
+      "Pudrición del fruto por Botrytis",
+      "Oídio",
+      "Pudrición de la raíz por Phytophthora"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Poda para la circulación del aire"
+    ]
+  },
+  "peach_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27320002/japon-seftali-kg-7bcfdc.jpg",
+    "name": "Melocotonero",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Templada a cálida",
+    "plantingTime": "Principios de primavera",
+    "maturityDays": 1095,
+    "temperature": [18, 27],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno y potasio moderados",
+    "diseases": [
+      "Crespera del melocotonero",
+      "Pudrición parda",
+      "Mancha bacteriana"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Poda adecuada",
+      "Pulverizaciones a base de cobre"
+    ]
+  },
+  "cherry_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cherry_season_%2848216568227%29.jpg/250px-Cherry_season_%2848216568227%29.jpg",
+    "name": "Cerezo",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Pleno Sol",
+    "water": 25,
+    "season": "Templada",
+    "plantingTime": "Principios de primavera u otoño",
+    "maturityDays": 1460,
+    "temperature": [16, 24],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": ["Pudrición parda", "Mancha foliar del cerezo", "Oídio"],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Poda adecuada",
+      "Buena circulación de aire"
+    ]
+  },
+  "pomegranate": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_%282019%29.jpg/250px-Pomegranate_Juice_%282019%29.jpg",
+    "name": "Granado",
+    "pHRange": [5.5, 7.0],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Cálida, semiárida",
+    "plantingTime": "Primavera",
+    "maturityDays": 1095,
+    "temperature": [20, 30],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno moderado",
+    "diseases": [
+      "Mancha foliar",
+      "Pudrición del fruto",
+      "Pudrición de la raíz"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Buen drenaje",
+      "Evitar el encharcamiento"
+    ]
+  },
+  "grape_vine": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grapes%2C_Rostov-on-Don%2C_Russia.jpg/250px-Grapes%2C_Rostov-on-Don%2C_Russia.jpg",
+    "name": "Vid",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Pleno Sol",
+    "water": 20,
+    "season": "Templada a cálida",
+    "plantingTime": "Principios de primavera",
+    "maturityDays": 1095,
+    "temperature": [18, 28],
+    "fertilizer": "Fertilizante equilibrado con nitrógeno y potasio moderados",
+    "diseases": [
+      "Oídio",
+      "Mildiú velloso",
+      "Pudrición del racimo por Botrytis"
+    ],
+    "medicines": [
+      "Fungicidas según sea necesario",
+      "Poda adecuada",
+      "Buena circulación de aire"
+    ]
+  }
+}

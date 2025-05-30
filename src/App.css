@@ -1,0 +1,10 @@
+select {
+  margin: 1rem;
+  right: 0px;
+  top: 1rem;
+  width: fit-content;
+  height: 1.5rem;
+  text-align: center;
+  background: #a8f1f7;
+  font-weight: bold;
+}

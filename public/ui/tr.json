@@ -1,0 +1,31 @@
+{
+  "title": "Bitki Yetiştirme Uygulaması",
+  "languages": {
+    "de": "Almanca",
+    "en": "İngilizce",
+    "es": "İspanyolca",
+    "fr": "Fransızca",
+    "it": "İtalyanca",
+    "tr": "Türkçe"
+  },
+  "titles": {
+    "name": "Bitki İsmi",
+    "pHRange": "pH Seviyesi",
+    "nitrogen": "Azot",
+    "phosphorus": "Fosfor",
+    "potassium": "Potasyum",
+    "water": "Su",
+    "sunlight": "Güneş Işığı",
+    "season": "Sezon",
+    "plantingTime": "Ekim Zamanı",
+    "maturityDays": "Olgunlaşma",
+    "temperature": "Sıcaklık",
+    "fertilizer": "Gübre",
+    "diseases": "Hastalıklar",
+    "medicines": "Tedaviler"
+  },
+  "units": {
+    "mm/week": "mm/hafta",
+    "day": "gün"
+  }
+}

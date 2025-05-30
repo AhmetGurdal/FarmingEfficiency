@@ -13,7 +13,6 @@ function App() {
     units: { [key: string]: string };
   } | null>(null);
   const [language, setLanguage] = useState("en");
-  const [isReady, setIsReady] = useState(false);
 
   useEffect(() => {
     let lang = localStorage.getItem("lang");

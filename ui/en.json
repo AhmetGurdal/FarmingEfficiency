@@ -1,0 +1,31 @@
+{
+  "title": "Plant Production",
+  "languages": {
+    "de": "German",
+    "en": "English",
+    "es": "Spanish",
+    "fr": "France",
+    "it": "Italian",
+    "tr": "Turkish"
+  },
+  "titles": {
+    "name": "Plant Name",
+    "pHRange": "pH Level",
+    "nitrogen": "Nitrogen",
+    "phosphorus": "Phosphorus",
+    "potassium": "Potassium",
+    "water": "Water",
+    "sunlight": "Sunlight",
+    "season": "Season",
+    "plantingTime": "Planting Time",
+    "maturityDays": "Maturity",
+    "temperature": "Temperature",
+    "fertilizer": "Fertilizer",
+    "diseases": "Diseases",
+    "medicines": "Medicines"
+  },
+  "units": {
+    "mm/week": "mm/week",
+    "day": "day"
+  }
+}

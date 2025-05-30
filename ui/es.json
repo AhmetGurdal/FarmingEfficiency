@@ -1,0 +1,31 @@
+{
+  "title": "Producción Vegetal",
+  "languages": {
+    "de": "Alemán",
+    "en": "Inglés",
+    "es": "Español",
+    "fr": "Francés",
+    "it": "Italiano",
+    "tr": "Turco"
+  },
+  "titles": {
+    "name": "Nombre de la planta",
+    "pHRange": "Nivel de pH",
+    "nitrogen": "Nitrógeno",
+    "phosphorus": "Fósforo",
+    "potassium": "Potasio",
+    "water": "Este",
+    "sunlight": "Luz del sol",
+    "season": "Estación",
+    "plantingTime": "Hora de octubre",
+    "maturityDays": "Maduración ",
+    "temperature": "Calor",
+    "fertilizer": "Fertilizante",
+    "diseases": "Enfermedades",
+    "medicines": "Tratos"
+  },
+  "units": {
+    "mm/week": "mm/semana",
+    "day": "día"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Pflanzenproduktion",
+  "languages": {
+    "de": "Deutsch",
+    "en": "Englisch",
+    "es": "Spanisch",
+    "fr": "Französisch",
+    "it": "Italienisch",
+    "tr": "Türkisch"
+  },
+  "titles": {
+    "name": "Pflanzenname",
+    "pHRange": "pH-Wert",
+    "nitrogen": "Stickstoff",
+    "phosphorus": "Phosphor",
+    "potassium": "Kalium",
+    "water": "Das",
+    "sunlight": "Sonne",
+    "season": "Jahreszeit",
+    "plantingTime": "Oktoberzeit",
+    "maturityDays": "Reifung",
+    "temperature": "Hitze",
+    "fertilizer": "Dünger",
+    "diseases": "Krankheiten",
+    "medicines": "Behandlungen"
+  },
+  "units": {
+    "mm/week": "mm/woche",
+    "day": "tag"
+  }
+}

@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FarmingEfficiency/static/css/main.e98ed6ca.css",
-    "main.js": "/FarmingEfficiency/static/js/main.4e4003db.js",
+    "main.js": "/FarmingEfficiency/static/js/main.bc7137e7.js",
     "static/js/453.b9e86488.chunk.js": "/FarmingEfficiency/static/js/453.b9e86488.chunk.js",
     "static/media/background.avif": "/FarmingEfficiency/static/media/background.f08c3e490bd4e34c690e.avif",
     "index.html": "/FarmingEfficiency/index.html",
     "main.e98ed6ca.css.map": "/FarmingEfficiency/static/css/main.e98ed6ca.css.map",
-    "main.4e4003db.js.map": "/FarmingEfficiency/static/js/main.4e4003db.js.map",
+    "main.bc7137e7.js.map": "/FarmingEfficiency/static/js/main.bc7137e7.js.map",
     "453.b9e86488.chunk.js.map": "/FarmingEfficiency/static/js/453.b9e86488.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e98ed6ca.css",
-    "static/js/main.4e4003db.js"
+    "static/js/main.bc7137e7.js"
   ]
 }

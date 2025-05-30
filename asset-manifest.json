@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FarmingEfficiency/static/css/main.e98ed6ca.css",
-    "main.js": "/FarmingEfficiency/static/js/main.bc7137e7.js",
+    "main.css": "/FarmingEfficiency/static/css/main.33297c38.css",
+    "main.js": "/FarmingEfficiency/static/js/main.65789c30.js",
     "static/js/453.b9e86488.chunk.js": "/FarmingEfficiency/static/js/453.b9e86488.chunk.js",
     "static/media/background.avif": "/FarmingEfficiency/static/media/background.f08c3e490bd4e34c690e.avif",
     "index.html": "/FarmingEfficiency/index.html",
-    "main.e98ed6ca.css.map": "/FarmingEfficiency/static/css/main.e98ed6ca.css.map",
-    "main.bc7137e7.js.map": "/FarmingEfficiency/static/js/main.bc7137e7.js.map",
+    "main.33297c38.css.map": "/FarmingEfficiency/static/css/main.33297c38.css.map",
+    "main.65789c30.js.map": "/FarmingEfficiency/static/js/main.65789c30.js.map",
     "453.b9e86488.chunk.js.map": "/FarmingEfficiency/static/js/453.b9e86488.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e98ed6ca.css",
-    "static/js/main.bc7137e7.js"
+    "static/css/main.33297c38.css",
+    "static/js/main.65789c30.js"
   ]
 }

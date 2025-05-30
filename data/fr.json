@@ -1,0 +1,1536 @@
+{
+  "tomato": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28080000/domates-kg-c7462d.jpg",
+    "name": "Tomate",
+    "pHRange": [5.5, 7.0],
+    "nitrogen": 200,
+    "phosphorus": 60,
+    "potassium": 300,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Printemps (après les dernières gelées)",
+    "maturityDays": 70,
+    "temperature": [20, 27],
+    "fertilizer": "Engrais NPK 10-10-10 toutes les 2 semaines",
+    "diseases": ["Mildiou", "Flétrissure fusarienne"],
+    "medicines": ["Fongicide à base de cuivre", "Huile de neem"]
+  },
+  "lettuce": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28250009/marul-adet-8ff30a.jpg",
+    "name": "Laitue",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 45,
+    "potassium": 150,
+    "sunlight": "Plein Soleil",
+    "water": 30,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 50,
+    "temperature": [10, 20],
+    "fertilizer": "Engrais organique équilibré ou NPK 5-5-5",
+    "diseases": ["Mildiou", "Virus de la mosaïque de la laitue"],
+    "medicines": ["Fongicide au soufre", "Savon insecticide"]
+  },
+  "carrot": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28129017/havuc-beypazari-kg-ea03f4.jpg",
+    "name": "Carotte",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 100,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Fin de l'Été",
+    "maturityDays": 70,
+    "temperature": [15, 21],
+    "fertilizer": "Faible en azote, riche en potassium (ex: NPK 5-10-10)",
+    "diseases": ["Brûlure alternarienne des feuilles"],
+    "medicines": ["Pulvérisation de chlorothalonil"]
+  },
+  "cucumber": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28130000/hiyar-kg-4aa292.jpg",
+    "name": "Concombre",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps (quand le sol est au-dessus de 18°C)",
+    "maturityDays": 50,
+    "temperature": [18, 30],
+    "fertilizer": "NPK 10-10-10 équilibré avant la floraison, passer à 5-10-10 pendant la fructification",
+    "diseases": ["Oïdium", "Mildiou", "Virus de la mosaïque du concombre"],
+    "medicines": [
+      "Fongicide à base de soufre pour le mildiou",
+      "Huile de neem pour le contrôle des pucerons",
+      "Savon insecticide pour les ravageurs"
+    ]
+  },
+  "spinach": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28140099/ispanak-kg-f2b464.jpg",
+    "name": "Épinard",
+    "pHRange": [6.5, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Mi-ombre à Plein Soleil",
+    "water": 30,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 40,
+    "temperature": [10, 21],
+    "fertilizer": "Engrais riche en azote (ex: 12-6-6) à la plantation et à mi-saison",
+    "diseases": ["Mildiou", "Flétrissure fusarienne", "Taches foliaires"],
+    "medicines": [
+      "Fongicide à base de cuivre",
+      "Rotation des cultures pour les maladies transmises par le sol",
+      "Huile de neem pour le contrôle général des ravageurs"
+    ]
+  },
+  "potato": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28293387/patates-taze-dokme-kg-6a65f9.jpg",
+    "name": "Pomme de terre",
+    "pHRange": [5.0, 6.5],
+    "nitrogen": 180,
+    "phosphorus": 55,
+    "potassium": 300,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps (2 à 4 semaines avant les dernières gelées)",
+    "maturityDays": 90,
+    "temperature": [15, 21],
+    "fertilizer": "Faible en azote, riche en potassium (ex: NPK 5-10-10); épandage en bandes au buttage",
+    "diseases": ["Mildiou tardif", "Mildiou précoce", "Gale"],
+    "medicines": [
+      "Mancozeb ou fongicide à base de cuivre pour le mildiou",
+      "Éviter le feuillage humide; utiliser l'irrigation au goutte-à-goutte",
+      "Planter des semences de pommes de terre certifiées exemptes de maladies"
+    ]
+  },
+  "onion": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28390007/28390007-25131e.jpg",
+    "name": "Oignon",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 60,
+    "potassium": 200,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Froid à Modéré",
+    "plantingTime": "Début du Printemps ou Fin de l'Automne",
+    "maturityDays": 90,
+    "temperature": [13, 24],
+    "fertilizer": "Riche en azote au début (ex: 10-10-10), réduire l'azote pendant la formation du bulbe; appliquer régulièrement du potassium et du phosphore",
+    "diseases": ["Mildiou", "Alternariose", "Pourriture du collet"],
+    "medicines": [
+      "Fongicides comme le chlorothalonil pour les maladies fongiques",
+      "Rotation des cultures et espacement approprié",
+      "Éviter l'irrigation par aspersion pour réduire les maladies"
+    ]
+  },
+  "garlic": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28352013/sarimsak-orgu-kg-326e33.jpg",
+    "name": "Ail",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 130,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Froid",
+    "plantingTime": "Automne (avant les premières gelées)",
+    "maturityDays": 240,
+    "temperature": [13, 24],
+    "fertilizer": "Azote modéré (ex: 10-10-10) appliqué tôt; éviter l'excès d'azote en fin de saison",
+    "diseases": ["Pourriture blanche", "Rouille", "Pourriture du collet"],
+    "medicines": [
+      "Fongicides pour la pourriture blanche",
+      "Rotation des cultures",
+      "Utiliser des gousses de semence exemptes de maladies"
+    ]
+  },
+  "pea": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28041000/bezelye-araka-kg-4eee43.jpg",
+    "name": "Pois",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 80,
+    "phosphorus": 45,
+    "potassium": 150,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps",
+    "maturityDays": 60,
+    "temperature": [10, 24],
+    "fertilizer": "Engrais faible en azote; les pois fixent leur propre azote",
+    "diseases": ["Oïdium", "Pourriture des racines", "Flétrissure fusarienne"],
+    "medicines": [
+      "Fongicides pour le mildiou",
+      "Bon drainage",
+      "Rotation des cultures"
+    ]
+  },
+  "bean": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28113001/fasulye-cali-paket-kg-34885d.jpg",
+    "name": "Haricot",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 80,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 60,
+    "temperature": [18, 30],
+    "fertilizer": "Engrais faible en azote; inoculer les graines avec la bactérie Rhizobium pour la fixation de l'azote",
+    "diseases": ["Anthracnose", "Rouille", "Pourriture des racines"],
+    "medicines": [
+      "Fongicides pour l'anthracnose",
+      "Traitement des semences",
+      "Rotation des cultures"
+    ]
+  },
+  "corn": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28270004/misir-adet-d61636.jpg",
+    "name": "Maïs",
+    "pHRange": [5.8, 7.0],
+    "nitrogen": 220,
+    "phosphorus": 60,
+    "potassium": 300,
+    "sunlight": "Plein Soleil",
+    "water": 30,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps (quand la température du sol > 10°C)",
+    "maturityDays": 90,
+    "temperature": [18, 27],
+    "fertilizer": "Engrais riche en azote (ex: 20-10-10) appliqué en doses fractionnées",
+    "diseases": [
+      "Charbon du maïs",
+      "Mildiou foliaire du maïs",
+      "Tache grise des feuilles"
+    ],
+    "medicines": [
+      "Fongicides comme le chlorothalonil",
+      "Rotation des cultures",
+      "Hybrides résistants"
+    ]
+  },
+  "wheat": {
+    "image": "https://images.stockcake.com/public/c/5/1/c51613c5-3a6c-474e-a849-3ed44ae59d14_large/harvest-gold-detail-stockcake.jpg",
+    "name": "Blé",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 180,
+    "phosphorus": 55,
+    "potassium": 250,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid à Modéré",
+    "plantingTime": "Automne ou Début du Printemps",
+    "maturityDays": 120,
+    "temperature": [10, 24],
+    "fertilizer": "Applications d'azote fractionnées (ex: NPK 15-15-15), éviter l'excès d'azote en fin de saison",
+    "diseases": ["Rouille", "Oïdium", "Fusariose de l'épi"],
+    "medicines": [
+      "Fongicides comme le propiconazole",
+      "Rotation des cultures",
+      "Semence certifiée exempte de maladies"
+    ]
+  },
+  "rice": {
+    "image": "https://images.stockcake.com/public/c/8/5/c85b66a9-cbeb-44aa-94cb-6a6c306bc591_large/steaming-rice-bowl-stockcake.jpg",
+    "name": "Riz",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 200,
+    "phosphorus": 60,
+    "potassium": 280,
+    "sunlight": "Plein Soleil",
+    "water": 100,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 150,
+    "temperature": [20, 30],
+    "fertilizer": "Applications fractionnées de NPK (ex: 16-16-16), avec un ajout de potassium pendant le tallage",
+    "diseases": ["Piriculariose", "Maladie de la gaine", "Bactériose foliaire"],
+    "medicines": [
+      "Fongicides comme le tricyclazole",
+      "Gestion de l'eau pour réduire les maladies",
+      "Utilisation de variétés résistantes"
+    ]
+  },
+  "barley": {
+    "image": "https://images.stockcake.com/public/6/6/7/6678e6d2-531a-44f9-a19f-4cd99a175f92_large/barley-in-scoop-stockcake.jpg",
+    "name": "Orge",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 90,
+    "temperature": [10, 24],
+    "fertilizer": "Azote modéré (ex: 12-12-12), applications fractionnées",
+    "diseases": ["Oïdium", "Rouille des feuilles", "Helminthosporiose"],
+    "medicines": [
+      "Fongicides comme le propiconazole",
+      "Rotation des cultures",
+      "Semence certifiée"
+    ]
+  },
+  "oats": {
+    "image": "https://images.stockcake.com/public/9/4/8/94817f59-336e-4ea4-b625-4310b10fe841_large/ancient-grain-ritual-stockcake.jpg",
+    "name": "Avoine",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 140,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps",
+    "maturityDays": 90,
+    "temperature": [10, 21],
+    "fertilizer": "Engrais équilibré avec un azote modéré (ex: 10-10-10)",
+    "diseases": ["Rouille couronnée", "Rouille de la tige", "Oïdium"],
+    "medicines": [
+      "Fongicides selon les besoins",
+      "Rotation des cultures",
+      "Variétés résistantes"
+    ]
+  },
+  "soybean": {
+    "image": "https://images.stockcake.com/public/1/2/6/12605da1-6df3-4015-835a-0273e27535aa_large/soybean-root-nodules-stockcake.jpg",
+    "name": "Soja",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 60,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 100,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais faible en azote; inoculer les graines avec la bactérie Rhizobium",
+    "diseases": [
+      "Rouille du soja",
+      "Pourriture des racines à Phytophthora",
+      "Syndrome de la mort subite"
+    ],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Traitement des semences",
+      "Rotation des cultures"
+    ]
+  },
+  "alfalfa": {
+    "image": "https://images.stockcake.com/public/0/e/0/0e0cef72-1451-40b3-866f-edb5fd334c8d_large/fresh-sprouts-bowl-stockcake.jpg",
+    "name": "Luzerne",
+    "pHRange": [6.5, 7.5],
+    "nitrogen": 0,
+    "phosphorus": 60,
+    "potassium": 250,
+    "sunlight": "Plein Soleil",
+    "water": 30,
+    "season": "Chaud",
+    "plantingTime": "Début du Printemps ou Fin de l'Été",
+    "maturityDays": 90,
+    "temperature": [15, 30],
+    "fertilizer": "Application de phosphore et de potassium; l'azote n'est généralement pas nécessaire en raison de la fixation de l'azote",
+    "diseases": [
+      "Pourriture des racines à Phytophthora",
+      "Flétrissure verticillienne",
+      "Anthracnose"
+    ],
+    "medicines": [
+      "Fongicides comme le metalaxyl",
+      "Rotation des cultures",
+      "Utiliser des semences exemptes de maladies"
+    ]
+  },
+  "cabbage": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28210000/lahana-beyaz-kg-ort-1750-g-9f6e4c-1650x1650.jpg",
+    "name": "Chou",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 85,
+    "temperature": [15, 21],
+    "fertilizer": "Engrais riche en azote au début, NPK équilibré pendant la formation des têtes",
+    "diseases": ["Pourriture noire", "Hernie du chou", "Mildiou"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Espacement et assainissement appropriés"
+    ]
+  },
+  "broccoli": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28180000/brokoli-kg-3731a0.jpg",
+    "name": "Brocoli",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 160,
+    "phosphorus": 60,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 80,
+    "temperature": [15, 21],
+    "fertilizer": "Engrais équilibré avec un azote légèrement plus élevé (ex: 15-10-10)",
+    "diseases": ["Mildiou", "Pourriture noire", "Hernie du chou"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "cauliflower": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28170000/karnabahar-kg-def0a7.jpg",
+    "name": "Chou-fleur",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 180,
+    "phosphorus": 55,
+    "potassium": 230,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 75,
+    "temperature": [15, 21],
+    "fertilizer": "Riche en azote au début, NPK équilibré pendant la formation des têtes",
+    "diseases": ["Pourriture noire", "Mildiou", "Hernie du chou"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Assainissement approprié"
+    ]
+  },
+  "brussels_sprouts": {
+    "image": "https://images.stockcake.com/public/6/8/6/6869a6da-83c9-4157-a96f-a815bde36382_large/dewy-brussels-sprouts-stockcake.jpg",
+    "name": "Choux de Bruxelles",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 170,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Fin de l'Été",
+    "maturityDays": 90,
+    "temperature": [15, 21],
+    "fertilizer": "Engrais riche en azote au début, NPK équilibré plus tard",
+    "diseases": ["Mildiou", "Pourriture noire", "Hernie du chou"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Bonnes pratiques d'assainissement"
+    ]
+  },
+  "kale": {
+    "image": "https://images.stockcake.com/public/8/e/1/8e19d06c-6bfa-4c1f-ba2f-5e3272633289_large/purple-kale-rows-stockcake.jpg",
+    "name": "Chou frisé",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 60,
+    "temperature": [15, 21],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Pourriture noire", "Mildiou", "Hernie du chou"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "chard": {
+    "image": "https://images.stockcake.com/public/6/5/7/657e4625-61b2-4933-8738-4d2b8c152d5b_large/fresh-red-chard-stockcake.jpg",
+    "name": "Blette",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 25,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 55,
+    "temperature": [15, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré (ex: 10-10-10)",
+    "diseases": ["Tache foliaire", "Mildiou", "Cercosporiose"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Éviter l'irrigation par aspersion"
+    ]
+  },
+  "mustard_greens": {
+    "image": "https://images.stockcake.com/public/7/1/b/71b46574-ee1c-4c2f-a2b5-d2d857323eb1_large/golden-polygon-blooms-stockcake.jpg",
+    "name": "Moutarde",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 40,
+    "temperature": [10, 21],
+    "fertilizer": "Engrais azoté modéré",
+    "diseases": ["Mildiou", "Rouille blanche", "Pourriture noire"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Assainissement approprié"
+    ]
+  },
+  "arugula": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28340009/roka-demet-efff5f.jpg",
+    "name": "Roquette",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 30,
+    "temperature": [10, 21],
+    "fertilizer": "Engrais équilibré léger",
+    "diseases": ["Mildiou", "Tache foliaire", "Oïdium"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "radish": {
+    "image": "https://images.stockcake.com/public/3/a/8/3a83024d-b2f7-477f-8e8c-a88c47bbeec1_large/radish-sprouting-life-stockcake.jpg",
+    "name": "Radis",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 30,
+    "temperature": [10, 21],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Hernie du chou", "Mildiou", "Pourriture noire"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Éviter l'irrigation par aspersion"
+    ]
+  },
+  "beetroot": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28380099/pancar-kg-ff8ae5.jpg",
+    "name": "Betterave",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 45,
+    "potassium": 180,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Froid",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 55,
+    "temperature": [15, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Cercosporiose", "Mildiou", "Oïdium"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "sweet_potato": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28293023/28293023-bb5ecc.jpg",
+    "name": "Patate douce",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps après que le sol se réchauffe",
+    "maturityDays": 120,
+    "temperature": [21, 29],
+    "fertilizer": "Faible en azote, plus riche en potassium (ex: 5-10-20)",
+    "diseases": [
+      "Charançon de la patate douce",
+      "Flétrissure fusarienne",
+      "Pourriture noire"
+    ],
+    "medicines": [
+      "Insecticides pour les charançons",
+      "Fongicides pour la pourriture",
+      "Utiliser des boutures exemptes de maladies"
+    ]
+  },
+  "pumpkin": {
+    "image": "https://images.stockcake.com/public/1/8/2/182e357b-ad46-4e9d-bf7a-60b7082101d7_large/vibrant-3d-pumpkin-stockcake.jpg",
+    "name": "Citrouille",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps après le risque de gel",
+    "maturityDays": 110,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais équilibré avec un azote modéré au début et un potassium plus élevé plus tard",
+    "diseases": ["Oïdium", "Mildiou", "Anthracnose"],
+    "medicines": [
+      "Fongicides (ex: à base de soufre ou de cuivre)",
+      "Rotation des cultures",
+      "Espacement approprié"
+    ]
+  },
+  "zucchini": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28160000/kabak-sakiz-kg-31919c.jpg",
+    "name": "Courgette",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 50,
+    "temperature": [18, 27],
+    "fertilizer": "Engrais équilibré avec un azote modéré (ex: 10-10-10)",
+    "diseases": ["Oïdium", "Flétrissure bactérienne", "Anthracnose"],
+    "medicines": [
+      "Fongicides selon les besoins",
+      "Rotation des cultures",
+      "Bon assainissement"
+    ]
+  },
+  "eggplant": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28303000/patlican-kemer-kg-2ac52c.jpg",
+    "name": "Aubergine",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 160,
+    "phosphorus": 55,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps après le gel",
+    "maturityDays": 90,
+    "temperature": [21, 29],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Flétrissure verticillienne", "Phomopsis", "Oïdium"],
+    "medicines": [
+      "Fongicides",
+      "Rotation des cultures",
+      "Utiliser des variétés résistantes"
+    ]
+  },
+  "bell_pepper": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28052000/biber-dolmalik-kg-0322a4.jpg",
+    "name": "Poivron",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 160,
+    "phosphorus": 55,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps après le gel",
+    "maturityDays": 75,
+    "temperature": [20, 27],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Tache bactérienne", "Anthracnose", "Oïdium"],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Rotation des cultures",
+      "Utiliser des variétés résistantes"
+    ]
+  },
+  "chili_pepper": {
+    "image": "https://images.stockcake.com/public/4/6/8/46824024-73d3-4cee-9d7f-9c69b70a078a_large/vibrant-peppers-glow-stockcake.jpg",
+    "name": "Piment",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 70,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Anthracnose", "Oïdium", "Tache bactérienne"],
+    "medicines": [
+      "Fongicides selon les besoins",
+      "Rotation des cultures",
+      "Variétés résistantes"
+    ]
+  },
+  "okra": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hong_Kong_Okra_Aug_25_2012.JPG/250px-Hong_Kong_Okra_Aug_25_2012.JPG",
+    "name": "Gombo",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 60,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Oïdium", "Flétrissure fusarienne", "Tache foliaire"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Rotation des cultures",
+      "Bon assainissement"
+    ]
+  },
+  "sweet_corn": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/VegCorn.jpg/250px-VegCorn.jpg",
+    "name": "Maïs doux",
+    "pHRange": [6.0, 6.8],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 30,
+    "season": "Chaud",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 70,
+    "temperature": [18, 27],
+    "fertilizer": "Engrais riche en azote fractionné en plusieurs étapes",
+    "diseases": [
+      "Mildiou foliaire du maïs",
+      "Tache grise des feuilles",
+      "Charbon du maïs"
+    ],
+    "medicines": [
+      "Fongicides selon les besoins",
+      "Rotation des cultures",
+      "Hybrides résistants"
+    ]
+  },
+  "sunflower": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/250px-Sunflower_sky_backdrop.jpg",
+    "name": "Tournesol",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 200,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Chaud",
+    "plantingTime": "Printemps après les dernières gelées",
+    "maturityDays": 90,
+    "temperature": [18, 28],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Mildiou", "Rouille", "Oïdium"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Rotation des cultures",
+      "Variétés résistantes"
+    ]
+  },
+  "marigold": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/French_marigold.jpg/250px-French_marigold.jpg",
+    "name": "Souci",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 100,
+    "phosphorus": 40,
+    "potassium": 120,
+    "sunlight": "Plein Soleil",
+    "water": 15,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 45,
+    "temperature": [18, 30],
+    "fertilizer": "Engrais équilibré léger",
+    "diseases": [
+      "Oïdium",
+      "Pourriture des racines",
+      "Pourriture grise (Botrytis)"
+    ],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "petunia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Petunia_exserta_by_Scott_Zona_-_004_%281%29.jpg/250px-Petunia_exserta_by_Scott_Zona_-_004_%281%29.jpg",
+    "name": "Pétunia",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 100,
+    "phosphorus": 40,
+    "potassium": 120,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 15,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 60,
+    "temperature": [18, 25],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": [
+      "Oïdium",
+      "Pourriture grise (Botrytis)",
+      "Pourriture des racines"
+    ],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Éviter l'excès d'arrosage"
+    ]
+  },
+  "geranium": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geranium_February_2008-1.jpg/250px-Geranium_February_2008-1.jpg",
+    "name": "Géranium",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 90,
+    "phosphorus": 35,
+    "potassium": 110,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 15,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 70,
+    "temperature": [18, 25],
+    "fertilizer": "Engrais équilibré avec un azote léger",
+    "diseases": [
+      "Pourriture grise (Botrytis)",
+      "Tache bactérienne des feuilles",
+      "Rouille"
+    ],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Espacement approprié",
+      "Bonne circulation de l'air"
+    ]
+  },
+  "parsley": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28260009/maydanoz-adet-659b84.jpg",
+    "name": "Persil",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Froid à Modéré",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 70,
+    "temperature": [15, 21],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Tache foliaire", "Pourriture des racines", "Oïdium"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "banana_plant": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27270000/muz-yerli-kg-9d3d01.jpg",
+    "name": "Bananier",
+    "pHRange": [5.5, 7.0],
+    "nitrogen": 200,
+    "phosphorus": 60,
+    "potassium": 300,
+    "sunlight": "Plein Soleil",
+    "water": 40,
+    "season": "Tropical/Chaud",
+    "plantingTime": "Printemps ou début de la saison des pluies",
+    "maturityDays": 365,
+    "temperature": [26, 30],
+    "fertilizer": "Engrais riche en potassium et en azote (ex: 10-10-30)",
+    "diseases": [
+      "Maladie de Panama",
+      "Sigatoka noire",
+      "Virus du sommet buissonnant du bananier"
+    ],
+    "medicines": [
+      "Fongicides et bactéricides selon les besoins",
+      "Utiliser des cultivars résistants",
+      "Assainissement et rotation des cultures"
+    ]
+  },
+  "aloe_vera": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aloe_Vera.jpg/250px-Aloe_Vera.jpg",
+    "name": "Aloe Vera",
+    "pHRange": [7.0, 8.5],
+    "nitrogen": 50,
+    "phosphorus": 30,
+    "potassium": 70,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 5,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 365,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais faible en azote, équilibré en phosphore et potassium",
+    "diseases": [
+      "Pourriture des racines",
+      "Taches foliaires",
+      "Rouille de l'aloès"
+    ],
+    "medicines": [
+      "Sol bien drainé pour prévenir la pourriture des racines",
+      "Fongicides à base de cuivre pour les taches foliaires",
+      "Éviter l'excès d'arrosage"
+    ]
+  },
+  "basil": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28119903/feslegen-demet-50fba7.jpg",
+    "name": "Basilic",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Plein Soleil",
+    "water": 15,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 60,
+    "temperature": [18, 30],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Mildiou", "Flétrissure fusarienne", "Tache foliaire"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bonne circulation de l'air",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "mint": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28280009/28280009-5c4e11.jpg",
+    "name": "Menthe",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 130,
+    "phosphorus": 40,
+    "potassium": 160,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Froid à Modéré",
+    "plantingTime": "Printemps",
+    "maturityDays": 70,
+    "temperature": [15, 25],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Rouille", "Oïdium", "Flétrissure verticillienne"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Éviter le surpeuplement"
+    ]
+  },
+  "rosemary": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rosemary_in_bloom.JPG/250px-Rosemary_in_bloom.JPG",
+    "name": "Romarin",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 80,
+    "phosphorus": 35,
+    "potassium": 100,
+    "sunlight": "Plein Soleil",
+    "water": 10,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 180,
+    "temperature": [18, 27],
+    "fertilizer": "Engrais faible en azote, équilibré en phosphore et potassium",
+    "diseases": ["Pourriture des racines", "Oïdium", "Tache foliaire"],
+    "medicines": [
+      "Assurer un sol bien drainé",
+      "Fongicides à base de cuivre",
+      "Éviter l'excès d'arrosage"
+    ]
+  },
+  "thyme": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thyme-Bundle.jpg/250px-Thyme-Bundle.jpg",
+    "name": "Thym",
+    "pHRange": [6.0, 8.0],
+    "nitrogen": 70,
+    "phosphorus": 30,
+    "potassium": 90,
+    "sunlight": "Plein Soleil",
+    "water": 8,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 150,
+    "temperature": [18, 27],
+    "fertilizer": "Engrais faible en azote",
+    "diseases": [
+      "Pourriture des racines",
+      "Oïdium",
+      "Pourriture grise (Botrytis)"
+    ],
+    "medicines": [
+      "Sol bien drainé",
+      "Fongicides si nécessaire",
+      "Éviter l'humidité excessive"
+    ]
+  },
+  "lavender": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/250px-Single_lavender_flower02.jpg",
+    "name": "Lavande",
+    "pHRange": [6.5, 7.5],
+    "nitrogen": 60,
+    "phosphorus": 35,
+    "potassium": 110,
+    "sunlight": "Plein Soleil",
+    "water": 8,
+    "season": "Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 180,
+    "temperature": [18, 27],
+    "fertilizer": "Engrais faible en azote",
+    "diseases": [
+      "Pourriture des racines",
+      "Maladie du shab",
+      "Pourriture grise (Botrytis)"
+    ],
+    "medicines": [
+      "Assurer un bon drainage",
+      "Fongicides si nécessaire",
+      "Éviter l'excès d'arrosage"
+    ]
+  },
+  "cilantro": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coriandrum_sativum_003.JPG/250px-Coriandrum_sativum_003.JPG",
+    "name": "Coriandre",
+    "pHRange": [6.2, 7.0],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 15,
+    "season": "Froid à Modéré",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 45,
+    "temperature": [15, 21],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Oïdium", "Tache foliaire", "Fonte des semis"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bonne circulation de l'air",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "ginger": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28600001/zencefil-kg-fd82e8.jpg",
+    "name": "Gingembre",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 200,
+    "sunlight": "Mi-ombre",
+    "water": 30,
+    "season": "Chaud, humide",
+    "plantingTime": "Fin du Printemps",
+    "maturityDays": 240,
+    "temperature": [22, 28],
+    "fertilizer": "Engrais équilibré avec un azote et un potassium modérés",
+    "diseases": [
+      "Pourriture du rhizome",
+      "Tache foliaire",
+      "Flétrissure bactérienne"
+    ],
+    "medicines": [
+      "Fongicides pour la pourriture",
+      "Bon drainage",
+      "Utiliser des rhizomes exempts de maladies"
+    ]
+  },
+  "turmeric": {
+    "image": "https://www.health.com/thmb/DnvvgyM3YhTQDPDiYGb47CTeX9M=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-CurcuminVsTurmeric-61d015f5c4154a91a44e4ef91293d91f.jpg",
+    "name": "Curcuma",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Mi-ombre",
+    "water": 30,
+    "season": "Chaud, humide",
+    "plantingTime": "Printemps",
+    "maturityDays": 270,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais équilibré avec un azote et un potassium modérés",
+    "diseases": ["Pourriture du rhizome", "Tache foliaire", "Alternariose"],
+    "medicines": ["Fongicides", "Bon drainage", "Rhizomes exempts de maladies"]
+  },
+  "avocado": {
+    "image": "https://images.migrosone.com/sanalmarket/product/28010004/28010004-10a053.jpg",
+    "name": "Avocatier",
+    "pHRange": [6.0, 6.5],
+    "nitrogen": 180,
+    "phosphorus": 50,
+    "potassium": 250,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Chaud, sans gel",
+    "plantingTime": "Printemps",
+    "maturityDays": 1095,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais équilibré avec un potassium plus élevé",
+    "diseases": [
+      "Pourriture des racines (Phytophthora)",
+      "Anthracnose",
+      "Viroid Sunblotch"
+    ],
+    "medicines": [
+      "Fongicides pour la pourriture des racines",
+      "Bon drainage",
+      "Utiliser des arbres certifiés exempts de maladies"
+    ]
+  },
+  "apple_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27133000/elma-granny-smith-kg-0e9183.jpg",
+    "name": "Pommier",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Tempéré",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 1460,
+    "temperature": [18, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Tavelure du pommier", "Feu bactérien", "Oïdium"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Taille pour la circulation de l'air",
+      "Utiliser des porte-greffes résistants"
+    ]
+  },
+  "mango_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27580003/mango-adet-604864.jpg",
+    "name": "Manguier",
+    "pHRange": [5.5, 7.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Plein Soleil",
+    "water": 30,
+    "season": "Tropical/Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 1095,
+    "temperature": [24, 30],
+    "fertilizer": "Engrais équilibré avec un azote modéré et un potassium élevé",
+    "diseases": ["Anthracnose", "Oïdium", "Tache noire bactérienne"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Taille appropriée",
+      "Utiliser des cultivars résistants"
+    ]
+  },
+  "orange_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27304007/portakal-kg-72075c.jpg",
+    "name": "Oranger",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 230,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Subtropical/Chaud",
+    "plantingTime": "Printemps",
+    "maturityDays": 1460,
+    "temperature": [18, 28],
+    "fertilizer": "Engrais équilibré avec un potassium légèrement plus élevé",
+    "diseases": [
+      "Chancre des agrumes",
+      "Tache grasse",
+      "Pourriture des racines à Phytophthora"
+    ],
+    "medicines": [
+      "Fongicides à base de cuivre",
+      "Bon drainage",
+      "Utiliser des plantes certifiées exemptes de maladies"
+    ]
+  },
+  "coconut_palm": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/JfBohol7038naturefvf_39.JPG/250px-JfBohol7038naturefvf_39.JPG",
+    "name": "Cocotier",
+    "pHRange": [5.0, 8.0],
+    "nitrogen": 150,
+    "phosphorus": 40,
+    "potassium": 300,
+    "sunlight": "Plein Soleil",
+    "water": 35,
+    "season": "Tropical",
+    "plantingTime": "Printemps",
+    "maturityDays": 1825,
+    "temperature": [27, 32],
+    "fertilizer": "Engrais riche en potassium et azote équilibré",
+    "diseases": [
+      "Jaunissement mortel",
+      "Pourriture des bourgeons",
+      "Flétrissure des racines"
+    ],
+    "medicines": [
+      "Fongicides et bactéricides si nécessaire",
+      "Bon drainage",
+      "Utiliser des semis exempts de maladies"
+    ]
+  },
+  "pineapple": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg/250px-%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+    "name": "Ananas",
+    "pHRange": [4.5, 6.5],
+    "nitrogen": 100,
+    "phosphorus": 30,
+    "potassium": 150,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Chaud, tropical",
+    "plantingTime": "Printemps",
+    "maturityDays": 450,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais équilibré avec un azote et un potassium modérés",
+    "diseases": [
+      "Pourriture du cœur",
+      "Pourriture des racines à Phytophthora",
+      "Flétrissure des cochenilles"
+    ],
+    "medicines": [
+      "Fongicides pour la pourriture des racines",
+      "Drainage approprié",
+      "Mesures de lutte antiparasitaire"
+    ]
+  },
+  "tea_plant": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Longjing_tea_steeping_in_gaiwan.jpg/250px-Longjing_tea_steeping_in_gaiwan.jpg",
+    "name": "Théier",
+    "pHRange": [4.5, 5.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Mi-ombre",
+    "water": 25,
+    "season": "Subtropical à Tropical",
+    "plantingTime": "Printemps",
+    "maturityDays": 730,
+    "temperature": [18, 30],
+    "fertilizer": "Engrais riche en azote",
+    "diseases": ["Mildiou bulleux", "Pourriture des racines", "Tache foliaire"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Taille appropriée"
+    ]
+  },
+  "coffee_plant": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/250px-Roasted_coffee_beans.jpg",
+    "name": "Caféier",
+    "pHRange": [6.0, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 50,
+    "potassium": 200,
+    "sunlight": "Mi-ombre",
+    "water": 25,
+    "season": "Tropical",
+    "plantingTime": "Printemps",
+    "maturityDays": 1095,
+    "temperature": [18, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": [
+      "Rouille du caféier",
+      "Maladie des baies du caféier",
+      "Pourriture des racines"
+    ],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Utiliser des variétés résistantes"
+    ]
+  },
+  "maple_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Acer_pseudoplatanus_002.jpg/250px-Acer_pseudoplatanus_002.jpg",
+    "name": "Érable",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Tempéré",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 1825,
+    "temperature": [10, 25],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Flétrissure verticillienne", "Anthracnose", "Oïdium"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Taille appropriée",
+      "Bon drainage"
+    ]
+  },
+  "oak_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Quercus_robur.jpg/250px-Quercus_robur.jpg",
+    "name": "Chêne",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 40,
+    "potassium": 190,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 25,
+    "season": "Tempéré",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 3650,
+    "temperature": [10, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Flétrissure du chêne", "Oïdium", "Anthracnose"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Assainissement approprié",
+      "Éviter les blessures au tronc"
+    ]
+  },
+  "willow_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Salix_alba_Morton.jpg/250px-Salix_alba_Morton.jpg",
+    "name": "Saule",
+    "pHRange": [6.0, 7.5],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 30,
+    "season": "Tempéré",
+    "plantingTime": "Début du Printemps",
+    "maturityDays": 1460,
+    "temperature": [10, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Chancre", "Rouille des feuilles", "Oïdium"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Éviter le surpeuplement"
+    ]
+  },
+  "bamboo": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bamboo_forest.jpg/250px-Bamboo_forest.jpg",
+    "name": "Bambou",
+    "pHRange": [6.0, 6.5],
+    "nitrogen": 150,
+    "phosphorus": 40,
+    "potassium": 150,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 25,
+    "season": "Chaud à Tempéré",
+    "plantingTime": "Printemps",
+    "maturityDays": 365,
+    "temperature": [18, 30],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Fumagine", "Flétrissure fusarienne", "Rouille des feuilles"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Taille régulière"
+    ]
+  },
+  "rubber_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Koh_Chang%2C_Thailand%2C_Rubber_tree.jpg/250px-Koh_Chang%2C_Thailand%2C_Rubber_tree.jpg",
+    "name": "Hévéa",
+    "pHRange": [4.5, 6.5],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 220,
+    "sunlight": "Mi-ombre",
+    "water": 30,
+    "season": "Tropical",
+    "plantingTime": "Printemps",
+    "maturityDays": 1825,
+    "temperature": [22, 32],
+    "fertilizer": "Engrais équilibré avec un azote et un potassium modérés",
+    "diseases": ["Oïdium", "Brûlure des feuilles", "Pourriture des racines"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Éviter l'engorgement"
+    ]
+  },
+  "blueberry": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27502017/27502017-abf1b0.jpg",
+    "name": "Bleuet",
+    "pHRange": [4.0, 5.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 160,
+    "sunlight": "Plein Soleil à Mi-ombre",
+    "water": 20,
+    "season": "Tempéré",
+    "plantingTime": "Printemps ou Automne",
+    "maturityDays": 730,
+    "temperature": [15, 24],
+    "fertilizer": "Engrais pour sol acide avec un azote modéré",
+    "diseases": [
+      "Momification des baies",
+      "Pourriture grise (Botrytis)",
+      "Pourriture des racines"
+    ],
+    "medicines": ["Fongicides si nécessaire", "Bon drainage", "Paillage"]
+  },
+  "strawberry": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27081000/27081000-7e292e.jpg",
+    "name": "Fraise",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 120,
+    "phosphorus": 40,
+    "potassium": 160,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Tempéré",
+    "plantingTime": "Début du Printemps",
+    "maturityDays": 120,
+    "temperature": [15, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Moisissure grise", "Oïdium", "Flétrissure verticillienne"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bonne circulation de l'air",
+      "Éviter l'arrosage par le haut"
+    ]
+  },
+  "raspberry": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27010006/27010006-7936d8.jpg",
+    "name": "Framboise",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 130,
+    "phosphorus": 45,
+    "potassium": 170,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Tempéré",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 150,
+    "temperature": [16, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": [
+      "Pourriture des fruits (Botrytis)",
+      "Oïdium",
+      "Pourriture des racines à Phytophthora"
+    ],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Taille pour la circulation de l'air"
+    ]
+  },
+  "peach_tree": {
+    "image": "https://images.migrosone.com/sanalmarket/product/27320002/japon-seftali-kg-7bcfdc.jpg",
+    "name": "Pêcher",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 160,
+    "phosphorus": 50,
+    "potassium": 210,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Tempéré à Chaud",
+    "plantingTime": "Début du Printemps",
+    "maturityDays": 1095,
+    "temperature": [18, 27],
+    "fertilizer": "Engrais équilibré avec un azote et un potassium modérés",
+    "diseases": ["Cloque du pêcher", "Moniliose", "Tache bactérienne"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Taille appropriée",
+      "Pulvérisations à base de cuivre"
+    ]
+  },
+  "cherry_tree": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cherry_season_%2848216568227%29.jpg/250px-Cherry_season_%2848216568227%29.jpg",
+    "name": "Cerisier",
+    "pHRange": [6.0, 7.0],
+    "nitrogen": 150,
+    "phosphorus": 45,
+    "potassium": 200,
+    "sunlight": "Plein Soleil",
+    "water": 25,
+    "season": "Tempéré",
+    "plantingTime": "Début du Printemps ou Automne",
+    "maturityDays": 1460,
+    "temperature": [16, 24],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": ["Moniliose", "Tache foliaire du cerisier", "Oïdium"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Taille appropriée",
+      "Bonne circulation de l'air"
+    ]
+  },
+  "pomegranate": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_%282019%29.jpg/250px-Pomegranate_Juice_%282019%29.jpg",
+    "name": "Grenade",
+    "pHRange": [5.5, 7.0],
+    "nitrogen": 140,
+    "phosphorus": 40,
+    "potassium": 180,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Chaud, semi-aride",
+    "plantingTime": "Printemps",
+    "maturityDays": 1095,
+    "temperature": [20, 30],
+    "fertilizer": "Engrais équilibré avec un azote modéré",
+    "diseases": [
+      "Tache foliaire",
+      "Pourriture des fruits",
+      "Pourriture des racines"
+    ],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Bon drainage",
+      "Éviter l'engorgement"
+    ]
+  },
+  "grape_vine": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grapes%2C_Rostov-on-Don%2C_Russia.jpg/250px-Grapes%2C_Rostov-on-Don%2C_Russia.jpg",
+    "name": "Vigne",
+    "pHRange": [5.5, 6.5],
+    "nitrogen": 140,
+    "phosphorus": 50,
+    "potassium": 180,
+    "sunlight": "Plein Soleil",
+    "water": 20,
+    "season": "Tempéré à Chaud",
+    "plantingTime": "Début du Printemps",
+    "maturityDays": 1095,
+    "temperature": [18, 28],
+    "fertilizer": "Engrais équilibré avec un azote et un potassium modérés",
+    "diseases": ["Oïdium", "Mildiou", "Pourriture grise (Botrytis)"],
+    "medicines": [
+      "Fongicides si nécessaire",
+      "Taille appropriée",
+      "Bonne circulation de l'air"
+    ]
+  }
+}

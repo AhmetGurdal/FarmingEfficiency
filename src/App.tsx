@@ -34,8 +34,8 @@ function App() {
   useEffect(() => {
     async function loadLanguageFiles() {
       try {
-        const dataRes = await fetch(`/data/${language}.json`);
-        const uiRes = await fetch(`/ui/${language}.json`);
+        const dataRes = await fetch(`./data/${language}.json`);
+        const uiRes = await fetch(`./ui/${language}.json`);
 
         if (!dataRes.ok || !uiRes.ok)
           throw new Error("Language file load failed");
@@ -57,7 +57,7 @@ function App() {
   }, [language]);
 
   return data !== null && ui !== null ? (
-    <div className="main">
+    <div className="main" translate="no">
       <select
         onChange={(e) => {
           console.log(e.target.value);

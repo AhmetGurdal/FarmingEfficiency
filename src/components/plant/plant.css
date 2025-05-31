@@ -44,7 +44,7 @@
 }
 
 .card .back {
-  overflow-y: scroll;
+  overflow-y: auto;
   transition: font-size 10s;
   font-size: 30px;
 }

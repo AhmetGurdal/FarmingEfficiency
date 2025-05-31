@@ -24,8 +24,3 @@ body,
   background-attachment: fixed;
   background-size: cover;
 }
-
-#root {
-  height: 100%;
-  background: rgba(100, 100, 100, 0.8);
-}

@@ -161,7 +161,7 @@ export const Main = (props: {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>{ui["title"]}</h2>
+        <h1>{ui["title"]}</h1>
       </header>
       <main className="App-main">
         <div className="inputs">

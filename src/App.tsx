@@ -60,7 +60,6 @@ function App() {
     <div className="main" translate="no">
       <select
         onChange={(e) => {
-          console.log(e.target.value);
           setLanguage(e.target.value);
         }}
       >

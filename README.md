@@ -4,7 +4,7 @@ This project is created to guide farmers in finding the best products to be plan
 
 ## How to use
 
-The application is running under this [link](https://ahmetgurdal.github.com/FarmingEfficiency), When you open the application, you should be seeing a dropdown input for language selection and 6 input boxes. These boxes filters the products with the given values. After that, returns the filtered products if any left.
+The application is running under this [link](https://ahmetgurdal.github.io/FarmingEfficiency/), When you open the application, you should be seeing a dropdown input for language selection and 6 input boxes. These boxes filters the products with the given values. After that, returns the filtered products if any left.
 
 - Name Input : Filters the included names
 - pH Level Input : Filters the pH level with the product's pH range

@@ -17,11 +17,24 @@ export const Main = (props: {
   const [nitrogen, setNitrogen] = useState<number | null>(null);
   const [phosphorus, setPhosphorus] = useState<number | null>(null);
   const [potassium, setPotassium] = useState<number | null>(null);
-  const [sunlight, setSunlight] = useState<string | null>(null);
-  const [growthSeason, setGrowthSeason] = useState<string | null>(null);
-  const [bestPlantingTime, setBestPlantingTime] = useState<string | null>(null);
+  // const [sunlight, setSunlight] = useState<string | null>(null);
+  // const [growthSeason, setGrowthSeason] = useState<string | null>(null);
+  // const [bestPlantingTime, setBestPlantingTime] = useState<string | null>(null);
   const [temperature, setTemperature] = useState<number | null>(null);
   const [filteredKeys, setFilteredKeys] = useState<string[]>([]);
+
+  const clearInputs = () => {
+    setPlantName("");
+    setPHInput(null);
+    setNitrogen(null);
+    setPhosphorus(null);
+    setPotassium(null);
+    setTemperature(null);
+  };
+
+  useEffect(() => {
+    clearInputs();
+  }, [data, ui]);
 
   useEffect(() => {
     setFilteredKeys([]);
@@ -88,45 +101,45 @@ export const Main = (props: {
           return null;
         });
       }
-      if (sunlight) {
-        filterKeys = Object.keys(data).map((e) => {
-          const _sunlight = data[e]["sunlight"];
-          if (sunlight === _sunlight) {
-            return filterKeys.length > 0
-              ? filterKeys.includes(e)
-                ? e
-                : null
-              : e;
-          }
-          return null;
-        });
-      }
-      if (growthSeason) {
-        filterKeys = Object.keys(data).map((e) => {
-          const _growthSeason = data[e]["season"];
-          if (growthSeason === _growthSeason) {
-            return filterKeys.length > 0
-              ? filterKeys.includes(e)
-                ? e
-                : null
-              : e;
-          }
-          return null;
-        });
-      }
-      if (bestPlantingTime) {
-        filterKeys = Object.keys(data).map((e) => {
-          const _bestPlantingTime = data[e]["plantingTime"];
-          if (bestPlantingTime === _bestPlantingTime) {
-            return filterKeys.length > 0
-              ? filterKeys.includes(e)
-                ? e
-                : null
-              : e;
-          }
-          return null;
-        });
-      }
+      // if (sunlight) {
+      //   filterKeys = Object.keys(data).map((e) => {
+      //     const _sunlight = data[e]["sunlight"];
+      //     if (sunlight === _sunlight) {
+      //       return filterKeys.length > 0
+      //         ? filterKeys.includes(e)
+      //           ? e
+      //           : null
+      //         : e;
+      //     }
+      //     return null;
+      //   });
+      // }
+      // if (growthSeason) {
+      //   filterKeys = Object.keys(data).map((e) => {
+      //     const _growthSeason = data[e]["season"];
+      //     if (growthSeason === _growthSeason) {
+      //       return filterKeys.length > 0
+      //         ? filterKeys.includes(e)
+      //           ? e
+      //           : null
+      //         : e;
+      //     }
+      //     return null;
+      //   });
+      // }
+      // if (bestPlantingTime) {
+      //   filterKeys = Object.keys(data).map((e) => {
+      //     const _bestPlantingTime = data[e]["plantingTime"];
+      //     if (bestPlantingTime === _bestPlantingTime) {
+      //       return filterKeys.length > 0
+      //         ? filterKeys.includes(e)
+      //           ? e
+      //           : null
+      //         : e;
+      //     }
+      //     return null;
+      //   });
+      // }
       if (temperature) {
         filterKeys = Object.keys(data).map((e) => {
           const _temperature = data[e]["temperature"];
@@ -152,9 +165,9 @@ export const Main = (props: {
     nitrogen,
     phosphorus,
     potassium,
-    sunlight,
-    growthSeason,
-    bestPlantingTime,
+    // sunlight,
+    // growthSeason,
+    // bestPlantingTime,
     temperature,
   ]);
 

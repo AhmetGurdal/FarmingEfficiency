@@ -11,5 +11,9 @@ select {
 
 .main {
   background-color: rgba(100, 100, 100, 0.8);
-  padding-bottom: 50vh;
+  /* padding-bottom: 50vh; */
+}
+
+.full-vh {
+  height: 100vh;
 }

@@ -1,7 +1,7 @@
 import "./main.css";
 import { IPlant } from "../types/IPlant";
 import { PlantComponent } from "../components/plant/plant";
-import { useEffect, useState } from "react";
+import { Dispatch, SetStateAction, useEffect, useState } from "react";
 
 export const Main = (props: {
   data: { [key: string]: IPlant };
@@ -10,6 +10,7 @@ export const Main = (props: {
     titles: { [key: string]: string };
     units: { [key: string]: string };
   };
+  setIsFiltering: Dispatch<SetStateAction<boolean>>;
 }) => {
   const { data, ui } = props;
   const [pHInput, setPHInput] = useState<number | null>(null);
@@ -156,8 +157,9 @@ export const Main = (props: {
           return null;
         });
       }
-
-      setFilteredKeys(filterKeys.filter((e) => e !== null) as string[]);
+      const filtered = filterKeys.filter((e) => e !== null) as string[];
+      props.setIsFiltering(filtered.length > 0);
+      setFilteredKeys(filtered);
     }
   }, [
     plantName,

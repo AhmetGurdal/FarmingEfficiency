@@ -14,6 +14,9 @@ function App() {
   } | null>(null);
   const [language, setLanguage] = useState("en");
 
+  const [height, setHeight] = useState("100vh");
+  const [isFiltering, setIsFiltering] = useState(false);
+
   useEffect(() => {
     let lang = localStorage.getItem("lang");
     if (lang) {
@@ -34,8 +37,8 @@ function App() {
   useEffect(() => {
     async function loadLanguageFiles() {
       try {
-        const dataRes = await fetch(`./data/${language}.json`);
-        const uiRes = await fetch(`./ui/${language}.json`);
+        const dataRes = await fetch(`/data/${language}.json`);
+        const uiRes = await fetch(`/ui/${language}.json`);
 
         if (!dataRes.ok || !uiRes.ok)
           throw new Error("Language file load failed");
@@ -56,8 +59,19 @@ function App() {
     }
   }, [language]);
 
+  const updateHeight = () => {
+    const isScrollable = document.body.scrollHeight > window.innerHeight;
+    setHeight(isScrollable ? "100%" : "100vh");
+  };
+
+  useEffect(() => {
+    updateHeight();
+    window.addEventListener("resize", updateHeight);
+    return () => window.removeEventListener("resize", updateHeight);
+  }, [isFiltering]);
+
   return data !== null && ui !== null ? (
-    <div className="main" translate="no">
+    <div className="main" style={{ height }} translate="no">
       <select
         onChange={(e) => {
           setLanguage(e.target.value);
@@ -82,7 +96,7 @@ function App() {
           {ui["languages"]["tr"]}
         </option>
       </select>
-      <Main data={data} ui={ui} />
+      <Main data={data} ui={ui} setIsFiltering={setIsFiltering} />
     </div>
   ) : (
     <div></div>
